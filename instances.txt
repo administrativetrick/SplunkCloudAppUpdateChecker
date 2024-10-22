@@ -1,0 +1,3 @@
+https://splunk-instance1:8089
+https://splunk-instance2:8089
+https://splunk-instance3:8089
